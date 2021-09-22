@@ -1,6 +1,6 @@
 # Supported artwork formats
 
-## Formats
+## Formats 
 
 We currently support the following file formats:
 
